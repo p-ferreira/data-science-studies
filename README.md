@@ -16,5 +16,6 @@ Python pandas:
 - removing columns from a data frame
 - frequency distribution
 - descriptive statistics extracting the count / mean / std / min / 25% / 50% / 75% / max from a dataframe
-- plot using matplotlib.pyplot
+- plot using matplotlib.pyplot (boxplot, histogram, scatterplot)
 - creates value ranges by cutting dataframes
+- identify and removes outliers
