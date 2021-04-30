@@ -55,3 +55,24 @@ Data Science studies
         - How to obtain the probability of events that involve only two possibilities of result
     - Poisson distribution
         - The basic concepts of the Poisson probability distribution
+    - Normal distribution
+        - The basic concepts of normal probability distribution
+        - Working with the standardized table Z
+        - How to obtain the probabilities using the normal distribution in a set of situations
+    - Sampling techniques
+        - Concepts of population and sample
+        - The identification of finite and infinite populations
+        - When to use the sampling technique in a study
+        - Sample selection techniques, such as:
+            - Simple random sampling
+            - Stratified sampling
+            - Cluster sampling
+    - Level and confidence interval
+        - The conceptualization of parameters and estimation
+        - The central limit theorem
+        - Levels of confidence and significance
+        - Obtaining the margin of error for an experiment
+        - Obtaining confidence intervals for a point estimate (interval estimation)
+    - Sample size calculation
+        - Determining the size of a sample, to ensure that it is representative of the population
+        - Sample size calculation for finite and infinite quantitative variables
