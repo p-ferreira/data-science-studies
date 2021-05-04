@@ -107,3 +107,23 @@ Data Science studies
         - Mean square error and its root
     - Saving and loading a model
         - How to save and load the estimated model using the pickle library
+
+## Advanced modeling techniques
+
+    - How to apply the logarithmic transformation to dataset data
+    - How to perform the frequency distribution of the transformed dependent variable
+    - F statistic and T statistic (Stats model)
+    - How to plot the scatter plots between the transformed variables of the dataset
+    - How to analyze the dispersion between the transformed variables
+    - How to estimate the linear model using training data
+    - How to obtain the coefficient of determination (R²) of the estimated model
+    - Generating forecasts for model test data
+    - How to obtain the coefficient of determination (R²) for model predictions
+    - How to generate the model's point forecast
+    - How to reverse the transformation to get the estimate in reais
+    - How to create a simple simulator
+    - How to obtain the model intercept
+    - How to obtain the regression coefficients
+    - How to create a DataFrame to store model coefficients
+    - How to interpret the estimated coefficients
+    - Graphically analyzing model results
