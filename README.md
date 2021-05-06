@@ -127,3 +127,16 @@ Data Science studies
     - How to create a DataFrame to store model coefficients
     - How to interpret the estimated coefficients
     - Graphically analyzing model results
+
+## Statistical tests
+
+    - Discover confidence interval with tconfint();
+    - Describe our data statistically.
+    - What it is, how to use it and when to use the Z Test and the T Test.
+    - Generate a confidence interval for the averages of our distributions;
+    - Use statsmodels `get_compare()`;
+    - Compare means;
+    - Compare different averages;
+    - Use the normaltest;
+    - Nonparametric test;
+    - Use the ranksums.
