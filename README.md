@@ -140,3 +140,11 @@ Data Science studies
     - Use the normaltest;
     - Nonparametric test;
     - Use the ranksums.
+
+# Analysis of experiments
+
+    - How to Discern which sources are valid for data collection;
+    - Define the objectives of the experiment, as well as identify the manipulable variables and the response of the experiment;
+    - The importance of planning an experiment;
+    - How to limit the area of experimentation;
+    - Factorial planning.
