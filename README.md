@@ -77,6 +77,19 @@ Data Science studies
         - Determining the size of a sample, to ensure that it is representative of the population
         - Sample size calculation for finite and infinite quantitative variables
 
+## Hypothesis tests
+
+    - The application of a two-tailed parametric test
+    - The execution of the hypothesis test steps
+    - The rules for rejecting the null hypothesis of a test
+    - To understand and calculate the p-value of a test
+    - Applying a z-test with Python tools
+    - t student distribution
+    - Building and querying a t student table
+    - The application of a one-tailed parametric test
+    - Defining hypotheses and obtaining critical areas for a one-tailed test
+    - Applying a t test with Python tools
+
 # Linear regression
 
 ## Testing relationships and predicting results
@@ -148,3 +161,13 @@ Data Science studies
     - The importance of planning an experiment;
     - How to limit the area of experimentation;
     - Factorial planning.
+    - Calculate the degrees of freedom of the residual;
+    - Do the statistical significance analysis of the parameters of the model;
+    - Build and interpret a normalized paret graph.
+    - Propose new models to better represent the reality of an experiment;
+    - Analyze a predicted chart by observing with the purpose of inferring the quality of the representativeness of a model;
+    - Relate the R2 correlation coefficient with the quality of the adjustment and with the results presented by a graph of predicted by observed.
+    - Use the adjusted model to obtain informations about the recipe;
+    - Difference between statistical laws and mathematical laws;
+    - Build and interpret color maps;
+    - Insert lines on color maps to facilitate interpretation of results.
