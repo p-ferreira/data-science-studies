@@ -89,6 +89,29 @@ Data Science studies
     - The application of a one-tailed parametric test
     - Defining hypotheses and obtaining critical areas for a one-tailed test
     - Applying a t test with Python tools
+    - The application of a comparison test between different sample means
+    - The definition of hypotheses for tests between two samples
+    - The application of a z test, for two samples, with Python tools
+    - The chi-square distribution
+    - To build and consult a chi-square table
+    - The application of non-parametric chi-square test
+    - The calculation of the p-value with the chi-square distribution
+    - The application of non-parametric comparison tests between dependent samples
+    - The elaboration of the non-parametric test of Wilcoxon
+    - The application of non-parametric tests of comparison between independent samples
+    - The elaboration of the non-parametric test of Mann-Whitney
+    - The use of Python tooling for application of Wilcoxon and Mann-Whitney tests
+
+## Correlation and regression
+
+    - To obtain a matrix of covariance
+    - The Pearson Correlation Coefficient
+    - To get a correlation array
+    - To interpret coefficients of covariance and correlation
+    - The basic definitions of a simple linear regression
+    - The ordinary squares method for obtaining the parameters of the model
+    - To estimate the parameters with the use of the StatsModels Library Tooling
+    - To calculate predictions inside and outside the sample
 
 # Linear regression
 
