@@ -194,3 +194,15 @@ Data Science studies
     - Difference between statistical laws and mathematical laws;
     - Build and interpret color maps;
     - Insert lines on color maps to facilitate interpretation of results.
+
+# Machine learning
+
+    - Models of machine learning
+        - Supervised learning
+            - Binary classification
+            Scikit:
+            - Linear Support Vector Classification (Linear SVC)
+            - Support Vector Classification (SVC)
+            - Decision tree Classsifier
+            - Multinomial Naive Bayes
+            - AdaBoost Classifier
