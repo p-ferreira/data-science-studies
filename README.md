@@ -204,5 +204,14 @@ Data Science studies
             - Linear Support Vector Classification (Linear SVC)
             - Support Vector Classification (SVC)
             - Decision tree Classsifier
+            - Dummy Classifier
             - Multinomial Naive Bayes
             - AdaBoost Classifier
+            Multidimensional data:
+                - Random Forest Classifier
+                - Random Forest with SelectKBest
+                - Evaluate results with Confusion Matrix
+                - Random Forest with RFE (Recursive feature elimination)
+                - Random Forest with RFECV (Cross-validation estimator)
+                - Random Forest with PCA
+                - Random Forest with TSNE
