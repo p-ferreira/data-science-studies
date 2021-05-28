@@ -215,3 +215,8 @@ Data Science studies
                 - Random Forest with RFECV (Cross-validation estimator)
                 - Random Forest with PCA
                 - Random Forest with TSNE
+        - Unsupervised learning
+            - K-Means
+            - DBSCAN
+            - Meanshift
+            - Silhouette coefficient
