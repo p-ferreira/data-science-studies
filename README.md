@@ -220,3 +220,4 @@ Data Science studies
             - DBSCAN
             - Meanshift
             - Silhouette coefficient
+                - Davies bouldin index calculation
