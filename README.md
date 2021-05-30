@@ -220,4 +220,9 @@ Data Science studies
             - DBSCAN
             - Meanshift
             - Silhouette coefficient
-                - Davies bouldin index calculation
+            - Davies bouldin index calculation
+            - Calinski Harabasz index calculation
+            Validation:
+                - Relative validation
+                - Cluster structure validation
+                - Cluster stability validation
