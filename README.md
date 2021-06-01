@@ -200,6 +200,13 @@ Data Science studies
     - Models of machine learning
         - Supervised learning
             - Binary classification
+            Validation:
+                - Cross validation (KFold)
+                - Shuffle KFold
+                - Stratified KFold
+                - GroupKFold
+                - Pipeline
+                - GridSearchCV
             Scikit:
             - Linear Support Vector Classification (Linear SVC)
             - Support Vector Classification (SVC)
