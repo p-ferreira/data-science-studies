@@ -206,7 +206,8 @@ Data Science studies
                 - Stratified KFold
                 - GroupKFold
                 - Pipeline
-                - GridSearchCV
+                - GridSearchCV and RandomizedSearchCV for optimization of hyper-parameters
+
             Scikit:
             - Linear Support Vector Classification (Linear SVC)
             - Support Vector Classification (SVC)
@@ -233,3 +234,10 @@ Data Science studies
                 - Relative validation
                 - Cluster structure validation
                 - Cluster stability validation
+        - Deep Learning
+            Keras with Tensorflow
+                - ReLu
+                - Softmax
+                - Export model to .h5 file
+        - MLOps
+            Create a web api to use a ml model using Flask and pickle

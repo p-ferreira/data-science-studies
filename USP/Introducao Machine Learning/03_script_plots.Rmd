@@ -24,7 +24,8 @@ library(tidyverse)
 library(plotly)
 library(ggrepel)
 library(PerformanceAnalytics)
-library(reshape2)
+#library(reshape2)
+library(reshape)
 ```
 
 
@@ -610,7 +611,10 @@ ggplot(correlacoes) +
 
 No R, para construir alguns boxplots, é melhor que utilizemos nossas bases de dados no formato long. Basta utilizarmos a função melt() do pacote 'reshape2':
 ```{r}
-atlas_long <- melt(atlas_ambiental[, 2:11], id.vars = "distritos")
+?melt
+slice <- data.frame(atlas_ambiental[, 2:11])
+
+atlas_long <- melt(slice, id.vars = "distritos")
 
 head(atlas_long)
 tail(atlas_long)
@@ -641,7 +645,7 @@ tail(atlas_padronizado)
 
 Como já visto, devemos transformar nossa base de dados em formato long:
 ```{r}
-atlas_padronizado_long <- melt(atlas_padronizado[, 2:11],
+atlas_padronizado_long <- melt(data.frame(atlas_padronizado[, 2:11]),
                                id.vars = "distritos")
 
 head(atlas_padronizado_long)
