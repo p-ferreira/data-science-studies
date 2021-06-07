@@ -2,20 +2,21 @@ from flask import Flask, request, jsonify
 from flask_basicauth import BasicAuth
 from textblob.blob import TextBlob
 import pickle
+import os
 
 columns = ['size', 'year', 'garage']
-model = pickle.load(open('house-prices-model.sav', 'rb'))
+model = pickle.load(open('../../models/house-prices-model.sav', 'rb'))
 
 app = Flask(__name__)
-app.config['BASIC_AUTH_USERNAME'] = 'john'
-app.config['BASIC_AUTH_PASSWORD'] = '123'
+app.config['BASIC_AUTH_USERNAME'] = os.environ.get('BASIC_AUTH_USERNAME')
+app.config['BASIC_AUTH_PASSWORD'] = os.environ.get('BASIC_AUTH_PASSWORD')
 
 basic_auth = BasicAuth(app)
 
 
 @app.route('/')
 def home():
-    return 'My first API'
+    return 'My first API TEST'
 
 
 @app.route('/sentiment/<phrase>')
@@ -35,4 +36,4 @@ def price_quote():
     return jsonify(price=price[0])
 
 
-app.run(debug=True)
+app.run(debug=True, host='0.0.0.0')
