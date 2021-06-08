@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PedroFerreira/PycharmProjects/data-science-studies/Machine%20Learning/MLOps/mlflow/mlruns/0/fbd165f7234243bb94c2c2ca4f51e7fb/artifacts
+end_time: 1623163554266
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: fbd165f7234243bb94c2c2ca4f51e7fb
+run_uuid: fbd165f7234243bb94c2c2ca4f51e7fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1623163551331
+status: 3
+tags: []
+user_id: PedroFerreira
